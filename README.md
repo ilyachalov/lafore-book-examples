@@ -9,7 +9,7 @@
 
 Я переписал примеры из книги с использованием Юникода (широких символов). То есть, к примеру, вместо cout и cin используются их версии для широких символов wcout и wcin, вместо char используется wchar_t и так далее.
 
-Тексты программ разложены в две папки: 1) [Lafore-examples](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-examples) (примеры); 2) [Lafore-exercise-solutions](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-exercise-solutions) (решения упражнений). Внутри этих папок файлы еще разбиты по главам. Названия файлов с примерами начинаются трехзначным числом — это номер страницы в книге, на которой встречается этот пример. В названиях файлов с решениями упражений указан номер главы и номер упражнения.
+Тексты программ разложены в две папки: 1) [Lafore-examples](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-examples) (примеры); 2) [Lafore-exercise-solutions](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-exercise-solutions) (решения упражнений). Внутри этих папок файлы еще разбиты по главам. Названия файлов с примерами начинаются трехзначным числом — это номер страницы в книге, на которой встречается этот пример. В названиях файлов с решениями упражнений указан номер главы и номер упражнения.
 
 Тексты программ сохранены в файлах с расширением ".cpp" в кодировке UTF-8 с сигнатурой (BOM). Завершения строк выполнены в формате Windows (CR LF).
 
