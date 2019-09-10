@@ -20,7 +20,7 @@
 Библиотека, содержащая функции «упрощенного варианта консольной графики», написанные Лафоре для использования в примерах книги. Подробное ее описание можно посмотреть в приложении Д к книге (стр.824-835).
 
 Используется в примерах:
-* 179_circstrc.cpp 5-й главы;
+* [179_circstrc.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_05/179_circstrc.cpp) 5-й главы;
 * 225_circles.cpp и 231_circtor.cpp 6-й главы;
 * 380_multshap.cpp 9-й главы.
 
