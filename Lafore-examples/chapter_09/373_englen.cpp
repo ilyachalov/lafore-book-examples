@@ -13,7 +13,7 @@ enum posneg {pos, neg};
 
 class Distance // длина в английской системе (базовый класс)
 {
-protected:        // ЗАМЕТЬТЕ: не может быть private для базового класса
+protected:        // ЗАМЕТЬТЕ: не private!
 	int feet;     // футы
 	float inches; // дюймы
 public:
