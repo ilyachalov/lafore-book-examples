@@ -17,7 +17,7 @@
 
 Переключение стандартных потоков ввода и вывода в режим Юникода выполнено с помощью нестандартной для языка C++ функции \_setmode, поэтому в Linux, видимо, работать не будет.
 ## lafore-console-graphics-lite
-Библиотека (в папке [Lafore-console-graphics-lite](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-console-graphics-lite)), содержащая функции «упрощенного варианта консольной графики», написанные Лафоре для использования в примерах книги. Подробное ее описание можно посмотреть в приложении Д к книге (стр.824-835).
+Библиотека (в папке [Lafore-console-graphics-lite](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-console-graphics-lite)), содержащая функции «упрощенного варианта консольной графики», написанные Лафоре для использования в примерах книги. Подробное ее описание можно посмотреть в приложении «Д» к книге (стр.824-835).
 
 Используется в примерах:
 * [179_circstrc.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_05/179_circstrc.cpp) 5-й главы;
