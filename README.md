@@ -1,7 +1,7 @@
 # lafore-book-examples
 Примеры и решения упражнений из книги Роберта Лафоре «ООП в C++», 4-е издание (перевод с английского на русский язык).
 
-Пока только для 2, 3, 4, 5, 6, 7, 8, 9 и 10 глав (к первой главе в книге нет ни примеров, ни упражнений).
+Пока только для 2-11 глав (к первой главе в книге нет ни примеров, ни упражнений). Всего в книге 16 глав.
 
 Книга вышла в оригинале на английском языке в 2001 году. С тех пор автор новых редакций не выпускал, а внесение исправлений и дополнений книге не помешало бы, учитывая, как минимум, несколько крупных изменений стандарта языка C++ за прошедшие 18 лет.
 
@@ -23,6 +23,7 @@
 * [179_circstrc.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_05/179_circstrc.cpp) 5-й главы;
 * [225_circles.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_06/225_circles.cpp) и [231_circtor.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_06/231_circtor.cpp) 6-й главы;
 * [380_multshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_09/380_multshap.cpp) 9-й главы;
-* [461_horse.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_10/461_horse.cpp) 10-й главы.
+* [461_horse.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_10/461_horse.cpp) 10-й главы;
+* [486_virtshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_11/486_virtshap.cpp) 11-й главы.
 
 Кроме использования Юникода (широких символов) я еще внес некоторые изменения: 1) добавил функцию end_graphics, которая возвращает настройки цвета текста консоли к тем, которые были установлены до запуска программы; 2) изменил функцию set_cursor_pos так, чтобы графические объекты рисовались относительно текущего положения курсора, а не относительно левого верхнего угла.
