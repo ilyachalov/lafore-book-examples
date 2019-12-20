@@ -19,11 +19,11 @@
 ## lafore-console-graphics-lite
 Библиотека (в папке [Lafore-console-graphics-lite](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-console-graphics-lite)), содержащая функции «упрощенного варианта консольной графики», написанные Лафоре для использования в примерах книги. Подробное ее описание можно посмотреть в приложении «Д» к книге (стр.824-835).
 
-Используется в примерах:
+Используется в примерах и упражнениях:
 * [179_circstrc.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_05/179_circstrc.cpp) 5-й главы;
 * [225_circles.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_06/225_circles.cpp) и [231_circtor.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_06/231_circtor.cpp) 6-й главы;
 * [380_multshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_09/380_multshap.cpp) 9-й главы;
 * [461_horse.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_10/461_horse.cpp) 10-й главы;
-* [486_virtshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_11/486_virtshap.cpp) 11-й главы.
+* [486_virtshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_11/486_virtshap.cpp) и [11chapter_08exercise.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-exercise-solutions/chapter_11/11chapter_08exercise.cpp) 11-й главы.
 
 Кроме использования Юникода (широких символов) я еще внес некоторые изменения: 1) добавил функцию end_graphics, которая возвращает настройки цвета текста консоли к тем, которые были установлены до запуска программы; 2) изменил функцию set_cursor_pos так, чтобы графические объекты рисовались относительно текущего положения курсора, а не относительно левого верхнего угла.
