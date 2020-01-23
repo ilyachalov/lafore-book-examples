@@ -16,7 +16,7 @@ int main()
 	_setmode(_fileno(stdout), _O_U16TEXT);
 
 	// данные, которые будем печатать — строка и целое число
-	const char* s1 = "\nToday’s winning number is ";
+	const char* s1 = "\nToday's winning number is ";
 	int n1 = 17982;
 
 	// Данная программа взята из 4-й редакции учебника Лафоре, опубликованной примерно
