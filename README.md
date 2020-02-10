@@ -27,3 +27,5 @@
 * [486_virtshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_11/486_virtshap.cpp) и [11chapter_08exercise.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-exercise-solutions/chapter_11/11chapter_08exercise.cpp) 11-й главы.
 
 Кроме использования Юникода (широких символов) я еще внес некоторые изменения: 1) добавил функцию end_graphics, которая возвращает настройки цвета текста консоли к тем, которые были установлены до запуска программы; 2) изменил функцию set_cursor_pos так, чтобы графические объекты рисовались относительно текущего положения курсора, а не относительно левого верхнего угла.
+## вывод на печать
+Для реализации вывода текста на печать в примерах 12-й главы использованы функции из набора Windows API (через функции Windows GDI). В названия файлов, где используются эти функции, добавлена концовка «_winapi».
