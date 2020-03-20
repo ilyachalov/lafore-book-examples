@@ -32,3 +32,9 @@
 Для реализации вывода текста на печать в примерах 12-й главы использованы функции из набора Windows API (через функции Windows GDI). В названия файлов, где используются эти функции, добавлена концовка «_winapi»:
 * [589_ezprint_winapi.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_12/589_ezprint_winapi.cpp);
 * [589_oprint_winapi.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_12/589_oprint_winapi.cpp).
+## примеры многофайловых программ
+В 13-й главе учебника, посвященной многофайловым программам, автор сначала дает большую теоретическую часть, а затем два больших примера таких программ: [verylong](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-examples/chapter_13/verylong) и [elev](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-examples/chapter_13/elev).
+
+В теоретической части автор иллюстрирует изложение материала кусочками кода. Я оформил эти кусочки в полноценные маленькие программы, для которых можно запустить сборку и увидеть сообщения об ошибках, которые описывает Лафоре.
+
+Каждую многофайловую программу я поместил в отдельную папку-проект.
