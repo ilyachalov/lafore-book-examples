@@ -2,4 +2,4 @@
 
 // 607_project13_fileH2.h
 
-extern int globalVar; // только определение
+extern int globalVar; // только объявление
