@@ -25,7 +25,7 @@
 * [380_multshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_09/380_multshap.cpp) 9-й главы;
 * [461_horse.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_10/461_horse.cpp) 10-й главы;
 * [486_virtshap.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-examples/chapter_11/486_virtshap.cpp) и [11chapter_08exercise.cpp](https://github.com/ilyachalov/lafore-book-examples/blob/master/Lafore-exercise-solutions/chapter_11/11chapter_08exercise.cpp) 11-й главы;
-* многофайловой программе [elev](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-examples/chapter_13/elev) 13-й главы, а такуже в упражнении к этой главе: [elev2](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-exercise-solutions/chapter_13/13chapter_02exercise_elev2).
+* многофайловой программе [elev](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-examples/chapter_13/elev) 13-й главы, а также в упражнении к этой главе: [elev2](https://github.com/ilyachalov/lafore-book-examples/tree/master/Lafore-exercise-solutions/chapter_13/13chapter_02exercise_elev2).
 
 Кроме использования Юникода (широких символов) я еще внес некоторые изменения: 1) добавил функцию end_graphics, которая возвращает настройки цвета текста консоли к тем, которые были установлены до запуска программы; 2) изменил функцию set_cursor_pos так, чтобы графические объекты рисовались относительно текущего положения курсора, а не относительно левого верхнего угла.
 ## вывод на печать
