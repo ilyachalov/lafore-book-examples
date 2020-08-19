@@ -1,6 +1,6 @@
 Диаграмма прецедентов:
 
-<img src="use case diagram.png">
+![](use case diagram.png)
 
 Описание прецедента «Запуск программы»:
 
